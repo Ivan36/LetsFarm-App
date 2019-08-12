@@ -1,0 +1,51 @@
+.userId{
+	height: 80px;
+	color: #6C7A89;
+	font-weight: bolder;
+	padding-left: 12px;
+	padding-top: 70px;
+	padding-bottom: 30px;
+	background: #EEEEEE;
+}
+.logo{
+	margin: auto;
+	border-radius: 100%;
+	border: 2px solid #ffffff;}
+}
+.sidebar-nav{
+	display: fixed;
+}
+#widget1container{
+	background: #EEEEEE !important;
+}
+.notice{
+	margin-right: 25px !important;
+	margin-left:  25px !important;
+}
+.noticeHeading{
+	font-size: 1.3em !important;
+	color: #000000 !important;
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+	font-weight: bolder;
+}
+.noticePublisher{
+	margin-bottom: 50px !important;
+	color: #000000 !important;
+	font-style: italic;
+}
+.noticeContent{
+	margin-top: 20px !important;
+
+}
+.loginDanger{
+	background: #F08F90 !important;
+	border-radius: 6px !important;
+	border-color: #BDC3C7 !important;
+}
+.cont{
+	margin: auto !important;
+}
+.space{
+	height: 20px;
+}
